@@ -1,12 +1,9 @@
 'use client';
-
 import { useState, useEffect, useRef } from 'react';
 import Script from 'next/script';
 
-const V3_SITE_KEY = 'YOUR_V3_SITE_KEY';
-const V2_SITE_KEY = 'YOUR_V2_SITE_KEY';
 
-export default function HomePage () {
+export default function GrecaptchaPage () {
   const [ email, setEmail ] = useState('');
   const formRef = useRef<HTMLFormElement>(null);
 
