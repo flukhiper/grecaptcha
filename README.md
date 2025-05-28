@@ -26,3 +26,11 @@
   credit: false
 }
 ```
+
+## Cloudflare Turnstile
+- [Docs](https://developers.cloudflare.com/turnstile/)
+- [Error code reference](https://developers.cloudflare.com/turnstile/get-started/server-side-validation/#error-codes)
+- [Pricing and limit](https://www.hcaptcha.com/plans)
+- [Analytics](https://developers.cloudflare.com/turnstile/turnstile-analytics/)
+
+https://community.cloudflare.com/t/turnstile-limits/539194
